@@ -1,3 +1,3 @@
 {
-  "rewrites": [{ "source": "/", "destination": "/dodge-the-meetings.html" }]
+  "rewrites": [{ "source": "/", "destination": "/stackr_landing_page.html" }]
 }
